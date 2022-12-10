@@ -1,0 +1,34 @@
+.backG{
+    background-color: rgb(151, 211, 233);
+}
+
+.inputB{
+    margin-right: 25px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.inputB:focus-visible{
+    border-bottom: 1px solid #1a377c;
+}
+input{
+    color:#fff;
+    width:300px;
+    border:transparent;
+    background-color: transparent;
+}
+:focus-visible {
+    outline: transparent none 1px;
+}
+
+input:focus-visible{
+    border-bottom: 1px solid #5879c7;
+}
+
+.DoneB{
+    border: 2px solid rgb(30, 103, 129);
+    background-color: #3c60b4;
+    margin: 10px;
+    padding: 15px;
+    width:200px ;
+}
